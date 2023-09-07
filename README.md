@@ -1,1 +1,1 @@
-# Loafding-page
+# Loading-page
